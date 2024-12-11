@@ -57,3 +57,4 @@ plot2 <- ggplot(aes(x = x, y = y), data = data2) +
 
 grid.arrange(plot1, plot2, ncol=2)
 
+
