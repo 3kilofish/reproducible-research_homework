@@ -1,5 +1,9 @@
 # Reproducible research: version control and R
 
+**Questions 1, 2, 3**
+
+https://github.com/jinyuliu2004/logistic_growth
+
 **Question 4**
 
 A) The two random walks uses the same function and same input, but generated different results. There is no pattern in the paths generated. Both paths originate from (0,0) at time 0 but ended in different coordinates at time 500. 
