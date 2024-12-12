@@ -3,8 +3,9 @@ CuiData <- read.csv("question-5-data/Cui_etal2014.csv")
 nrow(CuiData)
 ncol(CuiData)
 
-log_VirionVol <- log(CuiData$Virion.volume..nm.nm.nm.)
-log_GenomeLen <- log(CuiData$Genome.length..kb)
+CuiData$log_VirionVol <- log(CuiData$Virion.volume..nm.nm.nm.)
+CuiData$log_GenomeLen <- log(CuiData$Genome.length..kb)
+head(CuiData)
 
 
 LinModel <- lm(log_VirionVol ~ log_GenomeLen)
