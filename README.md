@@ -27,7 +27,7 @@ C) β = 1.515, p value = 6.44e-10
 
 They are statistically significant, and are the same as given in the paper. 
 
-D) See R script “Question 5.R”.
+D) See R script “Question 5.R” in this repo.
 
 E) V = 1182*300^1.52
 
