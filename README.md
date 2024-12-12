@@ -2,7 +2,7 @@
 
 **Questions 1, 2, 3**
 
-https://github.com/jinyuliu2004/logistic_growth
+https://github.com/3kilofish/logistic_growth
 
 **Question 4**
 
