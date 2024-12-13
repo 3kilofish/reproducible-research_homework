@@ -29,9 +29,9 @@ They are statistically significant, and are the same as given in the paper.
 
 D) See R script “Question 5.R” in this repo.
 
-E) V = 1182*300^1.52
+E) V = 1181.807*300^1.515
 
-V ‎= 6,884,014.616nm3
+V ‎= 6,689,370.628nm3
 
 
 
